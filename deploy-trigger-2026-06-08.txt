@@ -1,2 +1,3 @@
-Trigger GitHub Pages deployment after Pages was enabled.
+Trigger GitHub Pages deployment after repository rename.
 Date: 2026-06-08
+Repository: eastmabchanneldashboard
